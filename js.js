@@ -247,6 +247,7 @@ function saveHighscore() {
 	} 
 } 
 
+
 // Save users' score after pressing enter 
 
 function checkForEnter(event) { 
